@@ -1,0 +1,29 @@
+{
+  "name": "hjs-core",
+  "version": "1.0.0",
+  "description": "Hubrisjs core classes",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "dist": "dist"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-core.git"
+  },
+  "keywords": [
+    "char",
+    "math",
+    "time",
+    "util"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-core/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-core#readme"
+}
