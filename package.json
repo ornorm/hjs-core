@@ -1,6 +1,6 @@
 {
   "name": "hjs-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hubrisjs core classes",
   "main": "index.js",
   "directories": {
@@ -18,7 +18,8 @@
     "char",
     "math",
     "time",
-    "util"
+    "util",
+    "type"
   ],
   "author": "Aime Biendo <abiendo@gmail.com>",
   "license": "MIT",

@@ -1,7 +1,7 @@
-# Product Name
+# HJS-CORE
 > Basic classes for the Hubrisjs javascript framework.
 
-Some basic classes: char, math, time and utilities.
+Some basic classes: char, math, time and other utilities.
 
 ## Installation
 
