@@ -1,6 +1,6 @@
 {
   "name": "hjs-core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hubrisjs core classes",
   "main": "index.js",
   "directories": {
